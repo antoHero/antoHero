@@ -19,7 +19,7 @@ const akokeAnto = {
 }
 ```
 
-[![Akoke's's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoHero&count_private=true&hide=contribs,issues,stars&show_icons=true&theme=cobalt&repo=github-readme-stats)](https://github.com/antoHero/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoHero&langs_count=8&hide_progress=true&layout=compact&theme=cobalt)](https://github.com/antoHero/github-readme-stats)
+[![Akoke's's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoHero&count_private=true&hide=contribs,issues,stars&show_icons=true&theme=cobalt&repo=github-readme-stats)](https://github.com/antoHero/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoHero&langs_count=8&hide_progress=true&hide=Hack&layout=compact&theme=cobalt)](https://github.com/antoHero/github-readme-stats)
 
 
 
