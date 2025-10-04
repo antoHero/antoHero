@@ -1,6 +1,6 @@
 ### <img src="./images/banner.png"> 
-<h2> Hi, I'm Akoke Victor Anto</h2>
+<h2> Hi there 👋, I'm Akoke Victor Anto</h2>
 
-<p><em>Full-stack web developer based in Lagos, Nigeria</em></p>
+<p><em>Software Engineer, Programmer, Laravel, JavaScript, React.js and Vue.js Developer, Node and TypeScript Enthusiast.</em></p>
 
-> Checkout [my portfolio](https://akokeanto.vercel.app/)
+> You can reach me at [https://akokeanto.vercel.app/](https://akokeanto.vercel.app/)
