@@ -1,4 +1,4 @@
-### <img src="./images/banner.png"> 
+
 <h2> Hi there 👋, I'm Akoke Victor Anto</h2>
 
 <p><em>Software Engineer, Programmer, Laravel, JavaScript, React.js and Vue.js Developer, Node and TypeScript Enthusiast.</em></p>
